@@ -14,6 +14,12 @@
 
 /* Output 8.5.7B Lab Test Information from Lab_Info Data Set */
 
+/* Output 8.5.8 Baseline Lab Results for Subject 13, Site 1 - Including Flag for Values Outside Normal Range */
+
+/* Output 8.5.9 Selected Lab Results for Subject 2, Site 1 - Including Flag for Values Outside Normal Range */
+
+/* Output 8.5.10 Pain Score Trends in Various Arms */
+
 
 
 
